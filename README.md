@@ -5,7 +5,7 @@
 ![platform](https://img.shields.io/badge/platform-android%20%5E7.0-green)
 <div>
 
-使用JavaScript实现的QQ聊天机器人脚本， 可以在安卓设备上运行。可以代替自己和好友聊天，有帮助麻烦点个star支持一下吧:blush:。
+使用JavaScript实现的QQ聊天机器人脚本， 可以在安卓设备上运行。可以代替自己和好友聊天，点个star支持一下吧:blush:
 ## 测试日志
 - 2020-03-27 QQ V8.3.0 可用
 - 2020-06-10 QQ V8.3.6 可用
