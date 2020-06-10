@@ -11,8 +11,8 @@
 - 2020-06-10 QQ V8.3.6 可用
 
 ## 项目演示
-
-<img alt="演示图片" src="http://back.1cloud.xyz/uploadImg/1591788363609_robot2.jpg" width="300" />
+<img alt="演示图片" src="http://back.1cloud.xyz/uploadImg/1591788324822_robot1.jpg"  width="300" />
+<br />
 
 
 [演示gif点这里](http://back.1cloud.xyz/uploadImg/1591787872254_qqRobot.gif)
