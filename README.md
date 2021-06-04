@@ -9,6 +9,7 @@
 ## 测试日志
 - 2020-03-27 QQ V8.3.0 可用
 - 2020-06-10 QQ V8.3.6 可用
+- 2021-06-04 QQ V8.8.0 可用
 
 ## 项目演示
 <img alt="演示图片" src="http://back.1cloud.xyz/uploadImg/1591788324822_robot1.jpg"  width="300" />
